@@ -1,5 +1,5 @@
 {
-  "speech_keyword": {
+  "speech_key": {
     "CLOSE_PRICE": [
       "đóng cửa",
       "khớp gần nhất",
@@ -14,10 +14,6 @@
     "CEILING": [
       "trần"
     ],
-    "MAX_QTTY": [
-      "lớn nhất",
-      "tối đa"
-    ]
   },
   "templates": [
     "Đặt lệnh [SIDE] mã [SYMBOL] giá [PRICE] khối lượng [QTTY]",
