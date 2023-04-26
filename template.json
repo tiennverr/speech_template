@@ -1,0 +1,45 @@
+{
+  "speech_keyword": {
+    "CLOSE_PRICE": [
+      "đóng cửa",
+      "khớp gần nhất",
+      "khớp cuối"
+    ],
+    "REFERENCE": [
+      "tham chiếu"
+    ],
+    "FLOOR": [
+      "sàn"
+    ],
+    "CEILING": [
+      "trần"
+    ],
+    "MAX_QTTY": [
+      "lớn nhất",
+      "tối đa"
+    ]
+  },
+  "templates": [
+    "Đặt lệnh [SIDE] mã [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "Đặt lệnh [SIDE] mã [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "Đặt lệnh [SIDE] mã [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "Đặt lệnh [SIDE] [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "Đặt lệnh [SIDE] [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "Đặt lệnh [SIDE] [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "Đặt lệnh [SIDE] [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "Đặt lệnh mã [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "Đặt lệnh mã [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "Đặt lệnh mã [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "Đặt lệnh [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "Đặt lệnh [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "Đặt lệnh [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "Đặt lệnh [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "[SIDE] mã [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "[SIDE] mã [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "[SIDE] mã [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "[SIDE] [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+    "[SIDE] [SYMBOL] khối lượng [QTTY] giá [PRICE]",
+    "[SIDE] [SYMBOL] giá [PRICE] [QTTY] cổ",
+    "[SIDE] [SYMBOL] giá [PRICE] khối lượng [QTTY]"
+  ]
+}
