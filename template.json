@@ -23,6 +23,7 @@
     "Đặt lệnh [SIDE] [SYMBOL] khối lượng [QTTY] giá [PRICE]",
     "Đặt lệnh [SIDE] [SYMBOL] giá [PRICE] [QTTY] cổ",
     "Đặt lệnh [SIDE] [SYMBOL] giá [PRICE] khối lượng [QTTY]",
+	"Đặt lệnh [SIDE] [SYMBOL] giá [PRICE]",
     "Đặt lệnh mã [SYMBOL] giá [PRICE] khối lượng [QTTY]",
     "Đặt lệnh mã [SYMBOL] khối lượng [QTTY] giá [PRICE]",
     "Đặt lệnh mã [SYMBOL] giá [PRICE] [QTTY] cổ",
